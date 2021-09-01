@@ -1,4 +1,4 @@
-# Hi! How’s it going?
+# :wave: Hi! How’s it going?
 
 My name is Jan Steffen.
 
@@ -12,14 +12,14 @@ In 2010 I moved to [Hamburg](https://goo.gl/maps/6MsYGWBC1B5SVmhW6) after I had 
 
 In 2020 I've moved to [Frankfurt am Main](https://goo.gl/maps/gxKVGdKN24Mf8LV79), while keeping the job I had in Hamburg at that time. Now I'm closer to family and friends from the time before moving to Hamburg.
 
-In my free time I like to travel, playing guitar, singing, producing, skiing and doing photography (see the pictures on [Flickr](https://www.flickr.com/photos/iss0iss0/)).
+In my free time I like to travel, playing guitar, singing, producing, skiing and doing photography (see the pictures on [Flickr](https://www.flickr.com/photos/iss0iss0/)).  <i class="fas fa-heart"></i>
 
 ## Professional experience
 
-* [finleap connect GmbH](https://connect.finleap.com/), Hamburg, Germany - Senior Cloud Engineer - since June 2019
-* [AdVision digital GmbH](https://www.advision-digital.de/), Hamburg, Germany - Senior Software Engineer - from January 2017 till June 2019
-* [neveling.net GmbH](https://nevelingreply.de/), Hamburg, Germany - Software Engineer - from October 2015 till December 2016
-* [AdVision digital GmbH](https://www.advision-digital.de/), Hamburg, Germany - Software Engineer - from October 2010 till September 2015
+* [finleap connect GmbH](https://connect.finleap.com/), Hamburg, Germany - Senior Cloud Engineer - June 2019 >> <<{{ now }}>>
+* [AdVision digital GmbH](https://www.advision-digital.de/), Hamburg, Germany - Senior Software Engineer - January 2017 >> June 2019
+* [neveling.net GmbH](https://nevelingreply.de/), Hamburg, Germany - Software Engineer - October 2015 >> December 2016
+* [AdVision digital GmbH](https://www.advision-digital.de/), Hamburg, Germany - Software Engineer - October 2010 >> September 2015
 
 ## Education
 

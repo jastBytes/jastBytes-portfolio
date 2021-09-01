@@ -2,6 +2,7 @@ baseURL = 'https://jast-bytes.de/'
 languageCode = 'en-us'
 title = 'Jan Steffen'
 theme = "m10c"
+enableEmoji = true
 
 #[menu]
 #  [[menu.main]]
