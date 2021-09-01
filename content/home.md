@@ -12,7 +12,7 @@ In 2010 I moved to [Hamburg](https://goo.gl/maps/6MsYGWBC1B5SVmhW6) after I had 
 
 In 2020 I've moved to [Frankfurt am Main](https://goo.gl/maps/gxKVGdKN24Mf8LV79), while keeping the job I had in Hamburg at that time. Now I'm closer to family and friends from the time before moving to Hamburg.
 
-In my free time I like to travel, playing guitar, singing, producing, skiing and doing photography (see the pictures on [Flickr](https://www.flickr.com/photos/iss0iss0/)).  <i class="fas fa-heart"></i>
+In my free time I like to travel, playing guitar, singing, producing, skiing and doing photography (see the pictures on [Flickr](https://www.flickr.com/photos/iss0iss0/)).
 
 ## Professional experience
 
