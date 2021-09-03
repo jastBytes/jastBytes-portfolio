@@ -23,7 +23,7 @@ enableEmoji = true
 
 [params]
   author = "Jan Steffen"
-  description = "Senior Cloud Engineer @ finleap connect GmbH // Husband // Dad // Dev // Musician // Photographer"
+  description = "Husband // Dad // Dev // Musician // Photographer"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"

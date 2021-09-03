@@ -16,7 +16,7 @@ In my free time I like to travel, playing guitar, singing, producing, skiing and
 
 ## Professional experience
 
-* [finleap connect GmbH](https://connect.finleap.com/), Hamburg, Germany - Senior Cloud Engineer - June 2019 >> <<{{ now }}>>
+* [finleap connect GmbH](https://connect.finleap.com/), Hamburg, Germany - Senior Cloud Engineer - June 2019 >> now
 * [AdVision digital GmbH](https://www.advision-digital.de/), Hamburg, Germany - Senior Software Engineer - January 2017 >> June 2019
 * [neveling.net GmbH](https://nevelingreply.de/), Hamburg, Germany - Software Engineer - October 2015 >> December 2016
 * [AdVision digital GmbH](https://www.advision-digital.de/), Hamburg, Germany - Software Engineer - October 2010 >> September 2015
@@ -29,3 +29,27 @@ In my free time I like to travel, playing guitar, singing, producing, skiing and
 ## Certifications
 
 * [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/d8f8a602-844d-43b0-b7e5-c9c5243aaaea), The Linux Foundation - August 2020 - valid until August 2023
+
+## Technologies / Tools
+
+* Kubernetes
+* Docker
+* Helm
+* Gitlab CI/CD
+* gRPC
+* Git
+
+## Paradigms / Architectural Patterns
+
+* Object-oriented programming (OOP)
+* Event Sourcing
+* Microservices
+
+## Programming Languages
+
+* Golang
+* C#
+
+## Mindset
+
+* DevOps
