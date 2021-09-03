@@ -41,6 +41,10 @@ enableEmoji = true
     icon = "xing"
     name = "Xing"
     url = "https://www.xing.com/profile/Jan_Steffen18"
+  [[params.social]]
+    icon = "flickr"
+    name = "Flickr"
+    url = "https://www.flickr.com/photos/iss0iss0/"
 
   # Default theme
   #[params.style]
