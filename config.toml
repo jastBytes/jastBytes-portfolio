@@ -28,7 +28,7 @@ enableEmoji = true
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/iss0"
+    url = "https://github.com/jastBytes"
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
