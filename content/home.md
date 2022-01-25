@@ -13,7 +13,7 @@ In my free time I like to travel, playing guitar, singing, producing, skiing and
 
 ## Professional experience
 
-* [finleap connect GmbH](https://connect.finleap.com/), Frankfurt a.M, Germany - Cloud Tech Lead - September 2019 >> now
+* [finleap connect GmbH](https://connect.finleap.com/), Frankfurt a.M., Germany - Cloud Tech Lead - September 2021 >> now
 * [finleap connect GmbH](https://connect.finleap.com/), Frankfurt a.M., Germany - Senior Cloud Engineer - June 2020 >> August 2021
 * [finleap connect GmbH](https://connect.finleap.com/), Hamburg, Germany - Platform Engineer - June 2019 >> August 2021
 * [AdVision digital GmbH](https://www.advision-digital.de/), Hamburg, Germany - Senior Software Engineer - January 2017 >> June 2019
