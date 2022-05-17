@@ -3,13 +3,11 @@
 My name is Jan Steffen.
 
 I am from [Limburg a.d. Lahn](https://goo.gl/maps/ezkdWwKV8Jtm3Yr79), a small city between Cologne and Frankfurt. From a small village called [Lindenholzhausen](https://goo.gl/maps/e9TT2jAN4orMK1wP8) to be specific.
-In 2010 I moved to [Hamburg](https://goo.gl/maps/6MsYGWBC1B5SVmhW6) after I had finished studying computer science (`B.Sc.`) at the University of Applied Sciences Gießen ([THM](https://www.thm.de/)). In Hamburg I continued studying computer science (`M.Sc.`) at the University of Applied Sciences Hamburg ([HAW](https://www.haw-hamburg.de/)). In 2020 I've moved to [Frankfurt am Main](https://goo.gl/maps/gxKVGdKN24Mf8LV79). Now I'm closer to family and friends from the time before I've moved to Hamburg.
+In 2010 I moved to [Hamburg](https://goo.gl/maps/6MsYGWBC1B5SVmhW6) after I had finished studying computer science (`B.Sc.`) at the University of Applied Sciences Gießen ([THM](https://www.thm.de/)). In Hamburg I continued studying computer science (`M.Sc.`) at the University of Applied Sciences Hamburg ([HAW](https://www.haw-hamburg.de/)). In 2020 I've moved to [Frankfurt am Main](https://goo.gl/maps/gxKVGdKN24Mf8LV79). Now being closer to family and friends from my youth.
 
-I am a [Certified Kubernetes Administrator](https://www.credly.com/badges/d8f8a602-844d-43b0-b7e5-c9c5243aaaea) working as part of the `finleap cloud team` at [finleap connect GmbH](https://connect.finleap.com/). My team and I are constantly improving the compliant and secure Kubernetes platform for financial services we’ve built over the last couple of years.
+I am a [Certified Kubernetes Administrator](https://www.credly.com/badges/d8f8a602-844d-43b0-b7e5-c9c5243aaaea) working as part of the `finleap cloud team` at [finleap connect GmbH](https://connect.finleap.com/).
 
-With more than eleven years of experience as a software engineer working in different companies and using various programming languages, I know the problem’s which developers face in their day-to-day work. At finleap connect GmbH I've fostered my operational knowledge operating Kubernetes clusters for several years now.
-
-In my free time I like to travel, playing guitar, singing, producing, skiing and doing photography (see the pictures on [Flickr](https://www.flickr.com/photos/iss0iss0/)).
+In my free time I like to travel, play guitar, singing, producing, skiing and taking photographs (see some pictures on [Flickr](https://www.flickr.com/photos/iss0iss0/)).
 
 ## Professional experience
 
@@ -40,15 +38,11 @@ In my free time I like to travel, playing guitar, singing, producing, skiing and
 
 ## Paradigms / Architectural Patterns
 
-* Object-oriented programming (OOP)
+* Object-oriented programming
 * Event Sourcing
 * Microservices
 
 ## Programming Languages
 
-* Golang
-* C#
-
-## Mindset
-
-* DevOps
+* Go - 4 years of working experience
+* C# - 9 years of working experience
