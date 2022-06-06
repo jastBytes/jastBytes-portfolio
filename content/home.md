@@ -9,6 +9,10 @@ I am a [Certified Kubernetes Administrator](https://www.credly.com/badges/d8f8a6
 
 In my free time I like to travel, play guitar, singing, producing, skiing and taking photographs (see some pictures on [Flickr](https://www.flickr.com/photos/iss0iss0/)).
 
+## Talks
+
+* WeAreDevelopers DevOps Day 2021/11 - Monoskope: Developer Self-Service Across Clusters ([Recording](https://youtu.be/8FPXqjwSMdI?t=7339))
+
 ## Professional experience
 
 * [finleap connect GmbH](https://connect.finleap.com/), Frankfurt a.M., Germany - Cloud Tech Lead - September 2021 >> now
