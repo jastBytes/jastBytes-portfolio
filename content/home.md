@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there
 
 My name is Jan Steffen. :wave:
 
@@ -23,11 +23,14 @@ I am working as part of a team which provides an internal cloud platform.
 ### [AdVision digital GmbH](https://www.advision-digital.de/)
 
 * 01/2017 - 06/2019 | Senior Software Engineer
-* 10/2010 - 09/2015 | Software Engineer
 
 ### [neveling.net GmbH](https://nevelingreply.de/)
 
 * 08/2015 - 12/2016 | Software Engineer
+
+### Freelancing
+
+* 10/2010 - 09/2015 | Software Engineer
 
 ## Education
 
