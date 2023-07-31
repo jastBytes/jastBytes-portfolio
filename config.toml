@@ -1,0 +1,71 @@
+baseURL = 'https://jast-bytes.de/'
+languageCode = 'en-us'
+title = 'Jan Steffen'
+theme = "m10c"
+enableEmoji = true
+
+#[menu]
+#  [[menu.main]]
+#    identifier = "home"
+#    name = "Home"
+#    url = "/"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "tags"
+#    name = "Tags"
+#    url = "/tags/"
+#    weight = 2
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about/"
+#    weight = 3
+
+[params]
+  author = "Jan Steffen"
+  description = "Husband // Dad // Dev // Musician // Photographer"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/jastBytes"
+  [[params.social]]
+    icon = "message-square"
+    name = "Mastodon"
+    url = "https://hessen.social/@jastbytes"
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/jan-steffen-353618153/"
+  [[params.social]]
+    icon = "xing"
+    name = "Xing"
+    url = "https://www.xing.com/profile/Jan_Steffen18"
+  [[params.social]]
+    icon = "flickr"
+    name = "Flickr"
+    url = "https://www.flickr.com/photos/iss0iss0/"
+
+  # Default theme
+  #[params.style]
+  #  darkestColor = "#242930"
+  #  darkColor = "#353b43"
+  #  lightColor = "#afbac4"
+  #  lightestColor = "#ffffff"
+  #  primaryColor = "#57cc8a"
+
+  # Green theme
+  #[params.style]
+  #  darkestColor = "#315659"
+  #  darkColor = "#253031"
+  #  lightColor = "#96a879"
+  #  lightestColor = "#fff"
+  #  primaryColor = "#dad865"
+
+  # Red theme
+  [params.style]
+  #  darkestColor = "#d35050"
+  #  darkColor = "#212121"
+  #  lightColor = "#d6d6d6"
+  #  lightestColor = "#d3d3d3"
+  #  primaryColor = "#ffffff"
