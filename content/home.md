@@ -16,8 +16,8 @@ I am working as part of a team which provides an internal cloud platform.
 
 ### finleap connect GmbH [🌐](https://connect.finleap.com/)
 
-* 09/2021 - 03/2023 | Cloud Tech Lead
-* 09/2020 - 09/2021 | Senior Cloud Engineer
+* 09/2021 - 04/2023 | Cloud Tech Lead
+* 08/2020 - 09/2021 | Senior Cloud Engineer
 * 06/2019 - 08/2020 | Platform Engineer
 
 ### AdVision digital GmbH [🌐](https://www.advision-digital.de/)
@@ -26,7 +26,7 @@ I am working as part of a team which provides an internal cloud platform.
 
 ### neveling.net GmbH [🌐](https://nevelingreply.de/)
 
-* 08/2015 - 12/2016 | Software Engineer
+* 09/2015 - 01/2017 | Software Engineer
 
 ### Freelancing
 
