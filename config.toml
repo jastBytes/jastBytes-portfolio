@@ -23,7 +23,7 @@ enableEmoji = true
 
 [params]
   author = "Jan Steffen"
-  description = "Husband // Dad // Dev // Musician // Photographer"
+  description = "Husband // Dad // Dev"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
@@ -37,10 +37,6 @@ enableEmoji = true
     icon = "linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/jan-steffen-353618153/"
-  [[params.social]]
-    icon = "xing"
-    name = "Xing"
-    url = "https://www.xing.com/profile/Jan_Steffen18"
   [[params.social]]
     icon = "flickr"
     name = "Flickr"
