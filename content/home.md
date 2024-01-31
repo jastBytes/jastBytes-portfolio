@@ -57,5 +57,5 @@ My name is Jan Steffen. :wave: I am from Oberems in Hessen, Germany. Find more i
 
 ## Programming Languages
 
-* Go - 4 years of working experience
+* Go - 5 years of working experience
 * C# - 9 years of working experience
