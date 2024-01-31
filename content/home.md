@@ -1,8 +1,6 @@
 # Hi there
 
-My name is Jan Steffen. :wave:
-
-I am working as part of a team which provides an internal cloud platform.
+My name is Jan Steffen. :wave: I am from Oberems in Hessen, Germany. Find more information about myself below.
 
 ## Talks
 
