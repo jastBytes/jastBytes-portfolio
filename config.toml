@@ -23,7 +23,7 @@ enableEmoji = true
 
 [params]
   author = "Jan Steffen"
-  description = "Husband // Dad // Dev"
+  description = "[]{ \"Husband\", \"Dad", \"Dev\"}"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
