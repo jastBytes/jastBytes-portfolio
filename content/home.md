@@ -6,6 +6,11 @@ My name is Jan Steffen. :wave: I am from Oberems in Hessen, Germany. Find more i
 
 * WeAreDevelopers DevOps Day 2021/11 - Monoskope: Developer Self-Service Across Clusters ([Recording](https://youtu.be/8FPXqjwSMdI?t=7339))
 
+## Other Profiles
+
+* [The Linux Foundation](https://openprofile.dev/profile/jan.steffen)
+* [Sessionize](https://sessionize.com/jast-bytes/)
+
 ## Professional experience
 
 ### BWI GmbH [🌐](https://www.bwi.de)
