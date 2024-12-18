@@ -26,7 +26,7 @@ My name is Jan Steffen. :wave: I am from Oberems in Hessen, Germany. Find more i
 
 * 09/2015 - 01/2017 | Software Engineer
 
-### Freelancing
+### Freelancer
 
 * 10/2010 - 09/2015 | Software Engineer
 
@@ -39,7 +39,7 @@ My name is Jan Steffen. :wave: I am from Oberems in Hessen, Germany. Find more i
 
 * [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/d8f8a602-844d-43b0-b7e5-c9c5243aaaea), The Linux Foundation - August 2020 - valid until August 2023
 
-## Technologies / Tools
+## Technologies / Tools / Worked with
 
 * Kubernetes
 * Docker
