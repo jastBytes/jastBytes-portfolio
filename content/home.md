@@ -2,7 +2,7 @@
 
 Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. With a passion for cloud technologies and software engineering, I’ve built my career around designing and implementing robust, scalable systems.
 
-Currently, I’m the Lead IT Architect at BWI GmbH, where I’m focused on driving innovation and delivering high-quality IT solutions. Before this role, I spent nearly four years at finleap connect GmbH, holding various positions including Cloud Tech Lead, Senior Cloud Engineer, and Platform Engineer. My earlier career includes experience as a Senior Software Engineer at AdVision digital GmbH and Software Engineer at neveling.net GmbH.
+Currently, I’m a Lead IT Architect at BWI GmbH, where I’m focused on driving innovation and delivering high-quality Kubernetes solutions. Before this role, I spent nearly four years at finleap connect GmbH, holding various positions including Cloud Tech Lead, Senior Cloud Engineer, and Platform Engineer. My earlier career includes experience as a Senior Software Engineer at AdVision digital GmbH and Software Engineer at neveling.net GmbH.
 
 I hold a Master of Science in Computer Science from Hamburg University of Applied Sciences and a Bachelor of Science in Computer Science from Technische Hochschule Mittelhessen. I’m also a Certified Kubernetes Administrator, a certification I earned from The Linux Foundation in 2020.
 
