@@ -1,15 +1,17 @@
 .PHONY: serve
 
-HUGO_VERSION=0.88.1
+HUGO_VERSION=0.151.0
 HUGO_CMD=tmp/bin/hugo-$(HUGO_VERSION)
 HUGO_ARCHIVE=tmp/hugo-$(HUGO_VERSION).tgz
 
 OSFLAG 				:=
+ARCH := $(shell uname -m)
 UNAME_S := $(shell uname -s)
 ifeq ($(UNAME_S),Linux)
 	OSFLAG = Linux
 else ifeq ($(UNAME_S),Darwin)
-	OSFLAG = macOS
+	OSFLAG = darwin
+  ARCH = universal
 endif
 
 ##@ General
@@ -35,7 +37,7 @@ $(HUGO_CMD): $(HUGO_ARCHIVE)
 
 $(HUGO_ARCHIVE):
 	mkdir -p tmp
-	curl -Lo $(HUGO_ARCHIVE) https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_${OSFLAG}-64bit.tar.gz
+	curl -Lo $(HUGO_ARCHIVE) https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_${OSFLAG}-${ARCH}.tar.gz
 
 default: build
 

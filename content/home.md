@@ -1,3 +1,6 @@
++++
+url="/"
++++
 # Hi there
 
 Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. With a passion for cloud technologies and software engineering, I’ve built my career around designing and implementing robust, scalable systems.
