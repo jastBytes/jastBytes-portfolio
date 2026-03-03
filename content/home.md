@@ -15,7 +15,7 @@ When I’m not working, you can often find me tinkering with new tech, sharing i
 
 ## Professional experience
 
-### STACKIT [🌐](https://stackit.de/)
+### Schwarz Digits [🌐](https://schwarz-digits.de/)
 
 * since 03/2026
 
