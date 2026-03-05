@@ -5,10 +5,6 @@ url="/"
 
 Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. With a passion for cloud technologies and software engineering, I’ve built my career around designing and implementing robust, scalable systems.
 
-Over the years, I’ve gained expertise in tools and technologies like Kubernetes, Docker, Helm, and GitLab CI/CD. I’ve worked extensively with programming languages such as Go and C#, and I’m well-versed in architectural paradigms like microservices, event sourcing, and GitOps.
-
-When I’m not working, you can often find me tinkering with new tech, sharing insights on GitHub, or connecting with fellow professionals on LinkedIn and Mastodon. Feel free to reach out—I’m always open to exploring new ideas and collaborations!
-
 ## Talks
 
 * WeAreDevelopers DevOps Day 2021/11 - Monoskope: Developer Self-Service Across Clusters ([Recording](https://youtu.be/8FPXqjwSMdI?t=7339))
@@ -68,7 +64,7 @@ When I’m not working, you can often find me tinkering with new tech, sharing i
 
 ## Programming Languages
 
-* Go - 5 years of working experience
+* Go - 7 years of working experience
 * C# - 9 years of working experience
 
 ## Other Profiles
