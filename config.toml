@@ -23,7 +23,7 @@ enableEmoji = true
 
 [params]
 author = "Jan Steffen"
-description = "[]{ 'Husband', 'Dad', 'Dev' }"
+description = "Senior Cloud Engineer specializing in Kubernetes platforms and cloud infrastructure."
 menu_item_separator = " - "
 [[params.social]]
 icon = "github"

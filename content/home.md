@@ -3,7 +3,7 @@ url="/"
 +++
 # Hi there
 
-Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. With a passion for cloud technologies and software engineering, I’ve built my career around designing and implementing robust, scalable systems.
+Hi, I’m Jan Steffen, a Senior Cloud Engineer based in Oberems, Hessen, Germany. I build and operate Kubernetes platforms — currently working on STACKIT's managed Kubernetes Engine (SKE) on top of Gardener, with a focus on secure, self-service infrastructure for customers.
 
 ## Talks
 
