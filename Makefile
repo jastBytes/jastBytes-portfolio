@@ -1,6 +1,6 @@
 .PHONY: serve
 
-HUGO_VERSION=0.151.0
+HUGO_VERSION=0.165.0
 HUGO_CMD=tmp/bin/hugo-$(HUGO_VERSION)
 HUGO_ARCHIVE=tmp/hugo-$(HUGO_VERSION).tgz
 
@@ -8,7 +8,12 @@ OSFLAG 				:=
 ARCH := $(shell uname -m)
 UNAME_S := $(shell uname -s)
 ifeq ($(UNAME_S),Linux)
-	OSFLAG = Linux
+	OSFLAG = linux
+	ifeq ($(ARCH),x86_64)
+		ARCH = amd64
+	else ifeq ($(ARCH),aarch64)
+		ARCH = arm64
+	endif
 else ifeq ($(UNAME_S),Darwin)
 	OSFLAG = darwin
   ARCH = universal
