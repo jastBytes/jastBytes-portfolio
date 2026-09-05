@@ -63,6 +63,7 @@ Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. Wit
 * Grafana
 * Vault
 * Gitlab CI/CD
+* gRPC
 * Git
 
 ## Paradigms / Architectural Patterns
