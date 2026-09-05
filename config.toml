@@ -26,6 +26,10 @@ author = "Jan Steffen"
 description = "Senior Cloud Engineer specializing in Kubernetes platforms and cloud infrastructure."
 menu_item_separator = " - "
 [[params.social]]
+icon = "mail"
+name = "Email"
+url = "mailto:contact@jast-bytes.de"
+[[params.social]]
 icon = "github"
 name = "Github"
 url = "https://github.com/jastBytes"
