@@ -3,7 +3,7 @@ url="/"
 +++
 # Hi there
 
-Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. With a passion for cloud technologies and software engineering, I’ve built my career around designing and implementing robust, scalable systems.
+Hi, I’m Jan Steffen, a Senior Cloud Engineer based in Oberems, Hessen, Germany. I build and operate Kubernetes platforms — currently working on STACKIT's managed Kubernetes Engine (SKE) on top of Gardener, with a focus on secure, self-service infrastructure for customers.
 
 ## Talks
 
@@ -14,14 +14,19 @@ Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. Wit
 ### Schwarz Digits [🌐](https://schwarz-digits.de/)
 
 * since 03/2026 | Senior Cloud Engineer, SKE (STACKIT Kubernetes Engine) team
+  * Build and operate STACKIT's managed Kubernetes Engine (SKE), developing customer-facing features and Kubernetes operators in Go on top of Gardener
+  * Built the [Workload Identity](https://docs.stackit.cloud/products/runtime/kubernetes-engine/how-tos/workload-identity/) feature, letting workloads authenticate to STACKIT APIs via short-lived, automatically issued tokens instead of static secrets
 
 ### BWI GmbH [🌐](https://www.bwi.de)
 
-* 04/2023 - 02/2026 | Lead IT Architect
+* 04/2023 - 02/2026 | Senior Cloud Engineer (internal title: Lead IT Architect)
+  * Contributed to the [Open Defense Cloud](https://github.com/opendefensecloud), the Bundeswehr's open-source cloud platform for digital sovereignty
+  * Worked on ARC (Artifact Conduit), a gateway for transferring software artifacts across security zones with automated policy compliance scanning
 
 ### finleap connect GmbH [🌐](https://connect.finleap.com/)
 
 * 09/2021 - 04/2023 | Cloud Tech Lead
+  * Built [Monoskope](https://youtu.be/8FPXqjwSMdI?t=7339), a multi-cluster developer self-service platform
 * 08/2020 - 09/2021 | Senior Cloud Engineer
 * 06/2019 - 08/2020 | Platform Engineer
 
@@ -49,8 +54,14 @@ Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. Wit
 ## Technologies / Tools / Worked with
 
 * Kubernetes
+* Gardener
 * Docker
 * Helm
+* Terraform
+* Ansible
+* Prometheus
+* Grafana
+* Vault
 * Gitlab CI/CD
 * gRPC
 * Git
