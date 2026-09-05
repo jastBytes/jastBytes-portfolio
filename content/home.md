@@ -13,7 +13,7 @@ Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. Wit
 
 ### Schwarz Digits [🌐](https://schwarz-digits.de/)
 
-* since 03/2026
+* since 03/2026 | Senior Cloud Engineer, SKE (STACKIT Kubernetes Engine) team
 
 ### BWI GmbH [🌐](https://www.bwi.de)
 
@@ -44,7 +44,7 @@ Hi, I’m Jan Steffen, an IT professional based in Oberems, Hessen, Germany. Wit
 
 ## Certifications
 
-* [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/d8f8a602-844d-43b0-b7e5-c9c5243aaaea), The Linux Foundation - August 2020 - valid until August 2023
+* [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/d8f8a602-844d-43b0-b7e5-c9c5243aaaea), The Linux Foundation - August 2020 (expired August 2023)
 
 ## Technologies / Tools / Worked with
 
