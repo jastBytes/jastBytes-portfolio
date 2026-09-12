@@ -16,6 +16,7 @@ Hi, I’m Jan Steffen, a Senior Cloud Engineer based in Oberems, Hessen, Germany
 * since 03/2026 | Senior Cloud Engineer, SKE (STACKIT Kubernetes Engine) team
   * Build and operate STACKIT's managed Kubernetes Engine (SKE), developing customer-facing features and Kubernetes operators in Go on top of Gardener
   * Built the [Workload Identity](https://docs.stackit.cloud/products/runtime/kubernetes-engine/how-tos/workload-identity/) feature, letting workloads authenticate to STACKIT APIs via short-lived, automatically issued tokens instead of static secrets
+  * Contributed [container runtime labeling for OperatingSystemConfig and shoot control plane namespaces](https://github.com/gardener/gardener/commit/dd40bf134034afbed0eb1776c8146180ba1e97bf) upstream to [Gardener](https://github.com/gardener/gardener)
 
 ### BWI GmbH [🌐](https://www.bwi.de)
 
