@@ -43,6 +43,12 @@ Hi, I’m Jan Steffen, a Senior Cloud Engineer based in Oberems, Hessen, Germany
 
 * 10/2010 - 09/2015 | Software Engineer
 
+## Projects
+
+* **drivesafe** — A Flutter app that warns drivers of upcoming speed cameras, with distance-staged audio alerts, Android Auto integration, and background location tracking
+* **[hass-addons](https://github.com/jastBytes/hass-addons)** — Home Assistant add-ons, including a bridge for Mediola home-automation hardware and a PDF report generator for EV-charging data
+* **[immich-dlna-proxy](https://github.com/jastBytes/immich-dlna-proxy)** — A Go DLNA media server that exposes Immich photo albums to smart TVs and other DLNA clients without a dedicated app
+
 ## Education
 
 * 2010 - 2015 | [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/) - Master of Science - Computer Science
