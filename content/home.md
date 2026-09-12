@@ -5,10 +5,6 @@ url="/"
 
 Hi, I’m Jan Steffen, a Senior Cloud Engineer based in Oberems, Hessen, Germany. I build and operate Kubernetes platforms — currently working on STACKIT's managed Kubernetes Engine (SKE) on top of Gardener, with a focus on secure, self-service infrastructure for customers.
 
-## Talks
-
-* WeAreDevelopers DevOps Day 2021/11 - Monoskope: Developer Self-Service Across Clusters ([Recording](https://youtu.be/8FPXqjwSMdI?t=7339))
-
 ## Professional experience
 
 ### Schwarz Digits [🌐](https://schwarz-digits.de/)
@@ -16,6 +12,7 @@ Hi, I’m Jan Steffen, a Senior Cloud Engineer based in Oberems, Hessen, Germany
 * since 03/2026 | Senior Cloud Engineer, SKE (STACKIT Kubernetes Engine) team
   * Build and operate STACKIT's managed Kubernetes Engine (SKE), developing customer-facing features and Kubernetes operators in Go on top of Gardener
   * Built the [Workload Identity](https://docs.stackit.cloud/products/runtime/kubernetes-engine/how-tos/workload-identity/) feature, letting workloads authenticate to STACKIT APIs via short-lived, automatically issued tokens instead of static secrets
+  * Contribute upstream to [Gardener](https://github.com/gardener/gardener), the open-source project SKE is built on
 
 ### BWI GmbH [🌐](https://www.bwi.de)
 
@@ -41,6 +38,11 @@ Hi, I’m Jan Steffen, a Senior Cloud Engineer based in Oberems, Hessen, Germany
 ### Freelancer
 
 * 10/2010 - 09/2015 | Software Engineer
+
+## Projects
+
+* **[hass-addons](https://github.com/jastBytes/hass-addons)** — Home Assistant add-ons: `mediola2mqtt`, a bridge for Mediola home-automation hardware, and `evcc_to_pdf`, a PDF report generator for EVCC EV-charging data
+* **[immich-dlna-proxy](https://github.com/jastBytes/immich-dlna-proxy)** — A Go DLNA media server that exposes Immich photo albums to smart TVs and other DLNA clients without a dedicated app
 
 ## Education
 
